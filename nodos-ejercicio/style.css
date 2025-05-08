@@ -1,0 +1,12 @@
+.listado {
+    color: darkblue;
+    font-style: italic;
+}
+
+.cumplido {
+    background-color: lightgreen;
+}
+
+.fallido {
+    background-color: lightcoral;
+}
